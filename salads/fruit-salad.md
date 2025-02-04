@@ -1,4 +1,4 @@
-# Fruit salad recipe
+# potato salad recipe
 
 
 ## Ingredients
