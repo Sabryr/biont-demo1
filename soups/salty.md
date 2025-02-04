@@ -1,7 +1,7 @@
 # This is a salty soup
 ## Ingredients
  - Water
- - Salt
+ - 4 table spoons  Salt 
  - Mashrooms
 ## Instructions
 boil more
